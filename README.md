@@ -8,16 +8,6 @@ A ChatGPT bot for Telegram based on Node.js. Support both browserless and browse
 
 ## Features
 
-<table>
-  <tr>
-    <th>Private Chat</th>
-    <th>Group Chat</th>
-  </tr>
-  <tr>
-    <td><img src="./assets/private_chat.jpg" /></td>
-    <td><img src="./assets/group_chat.jpg" /></td>
-  </tr>
-</table>
 
 - Support for both browserless (official, unofficial) and browser-based APIs
 - Support for both private and group chats

@@ -1,7 +1,7 @@
 {
   "debug": 1,
   "bot": {
-    "token": "TELEGRAM_TOKEN",
+    "token": "6365905083:AAFdINm15BWZuGSSJxDJ644rDPaZ9rZLl9c",
     "groupIds": [], 
     "userIds": [],
     "chatCmd": "/chat",
@@ -22,7 +22,7 @@
       "timeoutMs": 120000 
     },
     "official": {
-      "apiKey": "API_KEY",
+      "apiKey": "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",
       "apiBaseUrl": "",
       "completionParams": {},
       "systemMessage": "",
